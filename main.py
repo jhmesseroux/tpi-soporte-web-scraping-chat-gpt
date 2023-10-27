@@ -95,3 +95,4 @@ def process():
 
     return scores
 
+process()
